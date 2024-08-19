@@ -11,7 +11,8 @@ Requirements:
 4. Extend the Car class from Task 1 to include different types of constructors.
 
 Requirements:
-5.Implement a default constructor that initializes the car’s attributes to default values (e.g., empty strings for make and model, 0 for year and mileage). 
+
+5. Implement a default constructor that initializes the car’s attributes to default values (e.g., empty strings for make and model, 0 for year and mileage). 
 6. Implement a parametrized constructor that takes arguments for make, model, year, and mileage and initializes the attributes accordingly.
 7. Implement a copy constructor that creates a new Car object as a copy of an existing one.
 8. Modify the main function to demonstrate the use of all three constructors.
